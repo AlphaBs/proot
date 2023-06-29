@@ -135,7 +135,7 @@ typedef unsigned char byte_t;
     #define OFFSETOF_STAT_UID_32 24
     #define OFFSETOF_STAT_GID_32 28
 
-    #define LOADER_ADDRESS     0x2000000000
+    #define LOADER_ADDRESS     0x4000000000
     #define EXEC_PIC_ADDRESS   0x3000000000
     #define INTERP_PIC_ADDRESS 0x3f00000000
     #define HAS_POKEDATA_WORKAROUND true
